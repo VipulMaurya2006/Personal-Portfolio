@@ -1591,7 +1591,7 @@
       max-width: 680px;
     }
   
-    .modal-avatar-box img { width: 80px; }
+    .modal-avatar-box img { width: 80px; height : 80px;}
   
   
   
